@@ -18,6 +18,7 @@ This is the IntoTheDeep project for technototes
 
 Error `-Xlint:deprecation`. You may need to add the following to
 build.common.gradle
+https://github.com/technototes/Decode2025/blob/main/Sixteen750/src/main/java/org/firstinspires/ftc/sixteen750/subsystems/LauncherSubsystem.java
 
 ```
 allprojects {
